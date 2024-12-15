@@ -24,7 +24,7 @@ Follow these steps to set up and use the project locally:
 ##### 1. Clone the Repository
 First, clone the repository to your local machine. Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/NgoDuongwww/quan_ly_don_thuoc.git`
+git clone https://github.com/NgoDuongwww/quan_ly_benh_nhan.git
 ```
 
 ##### 2. Set Up the Environment
